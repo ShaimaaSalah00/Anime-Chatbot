@@ -1,2 +1,2 @@
 # Anime Chatbot
-An Anime chatbot that give you a quote of your fav character from what anime you want
+An Anime chatbot that gives you a quote of your fav character from what anime you want
